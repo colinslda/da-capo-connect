@@ -35,6 +35,10 @@ export default {
           DEFAULT: "#8E9196",
         },
       },
+      fontFamily: {
+        sans: ['Poppins', 'system-ui', 'sans-serif'],
+        heading: ['DM Sans', 'system-ui', 'sans-serif'],
+      },
       keyframes: {
         "fade-up": {
           "0%": {
